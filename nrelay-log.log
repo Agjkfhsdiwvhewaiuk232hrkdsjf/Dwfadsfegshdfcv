@@ -1,0 +1,145 @@
+Log Start (time: 1533575851765)
+MESSAGE [19:17:31 | NRelay]           Starting...
+INFO    [19:17:31 | NRelay]           Checking for updates...
+INFO    [19:17:32 | NRelay]           Adding Main Client
+INFO    [19:17:32 | ResourceManager]  Loaded 1301 tiles.
+INFO    [19:17:32 | ResourceManager]  Loaded 8539 objects.
+INFO    [19:17:37 | PluginManager]    Loaded Key Notifier by Lolization
+INFO    [19:17:37 | PluginManager]    Loaded Player Tracker by tcrane
+INFO    [19:17:37 | PluginManager]    Loaded RealmTrack by Fluttar
+SUCCESS [19:17:37 | Player Tracker]   Enabled tracking for all clients.
+MESSAGE [19:17:37 | Unhandled Rejection]at: [object Promise] reason: Error: An invalid token was provided.
+MESSAGE [19:17:37 | Unhandled Rejection]at: [object Promise] reason: Error: An invalid token was provided.
+INFO    [19:17:37 | NRelay]           Adding Secondary Client
+INFO    [19:17:37 | NRelay]           Adding Third Client
+INFO    [19:17:37 | NRelay]           Adding Fourth Client
+INFO    [19:17:37 | NRelay]           Adding Fifth Client
+INFO    [19:17:37 | NRelay]           Adding Sixth Client
+INFO    [19:17:37 | Main Client]      Starting connection to USWest3
+SUCCESS [19:17:37 | NRelay]           Authorized Main Client
+INFO    [19:17:38 | NRelay]           Adding Seventh Client
+SUCCESS [19:17:38 | Main Client]      Connected to USWest3!
+INFO    [19:17:38 | Secondary Client] Starting connection to USWest
+SUCCESS [19:17:38 | NRelay]           Authorized Secondary Client
+INFO    [19:17:38 | Main Client]      Connecting to Nexus
+INFO    [19:17:38 | Fourth Client]    Starting connection to USSouth3
+SUCCESS [19:17:38 | NRelay]           Authorized Fourth Client
+SUCCESS [19:17:39 | Secondary Client] Connected to USWest!
+INFO    [19:17:39 | NRelay]           Adding Eight Client
+INFO    [19:17:39 | Sixth Client]     Starting connection to USSouth
+SUCCESS [19:17:39 | NRelay]           Authorized Sixth Client
+INFO    [19:17:39 | Third Client]     Starting connection to USSouthWest
+SUCCESS [19:17:39 | NRelay]           Authorized Third Client
+SUCCESS [19:17:39 | Fourth Client]    Connected to USSouth3!
+INFO    [19:17:39 | Secondary Client] Connecting to Nexus
+INFO    [19:17:39 | Fifth Client]     Starting connection to USSouth2
+SUCCESS [19:17:39 | NRelay]           Authorized Fifth Client
+SUCCESS [19:17:39 | Sixth Client]     Connected to USSouth!
+SUCCESS [19:17:39 | Third Client]     Connected to USSouthWest!
+INFO    [19:17:39 | Fourth Client]    Connecting to Nexus
+INFO    [19:17:39 | Seventh Client]   Starting connection to USNorthWest
+SUCCESS [19:17:39 | NRelay]           Authorized Seventh Client
+SUCCESS [19:17:39 | Fifth Client]     Connected to USSouth2!
+INFO    [19:17:39 | Sixth Client]     Connecting to Nexus
+INFO    [19:17:39 | Third Client]     Connecting to Nexus
+SUCCESS [19:17:39 | Seventh Client]   Connected to USNorthWest!
+INFO    [19:17:39 | Fifth Client]     Connecting to Nexus
+INFO    [19:17:39 | Seventh Client]   Connecting to Nexus
+INFO    [19:17:39 | Eight Client]     Starting connection to USMidWest2
+SUCCESS [19:17:39 | NRelay]           Authorized Eight Client
+SUCCESS [19:17:39 | Main Client]      Connected!
+SUCCESS [19:17:40 | Eight Client]     Connected to USMidWest2!
+INFO    [19:17:40 | NRelay]           Adding Ninth Client
+INFO    [19:17:40 | Eight Client]     Connecting to Nexus
+SUCCESS [19:17:40 | Secondary Client] Connected!
+SUCCESS [19:17:40 | Third Client]     Connected!
+SUCCESS [19:17:40 | Sixth Client]     Connected!
+SUCCESS [19:17:40 | Seventh Client]   Connected!
+SUCCESS [19:17:40 | Fifth Client]     Connected!
+SUCCESS [19:17:40 | Fourth Client]    Connected!
+WARNING [19:17:40 | PluginManager]    Error while calling UPDATE hook on PlayerTracker
+INFO    [19:17:40 | PluginManager]    TypeError: Cannot read property 'send' of undefined
+SUCCESS [19:17:40 | Eight Client]     Connected!
+INFO    [19:17:41 | NRelay]           Adding Tenth Client
+INFO    [19:17:41 | Ninth Client]     Starting connection to USMidWest
+SUCCESS [19:17:41 | NRelay]           Authorized Ninth Client
+SUCCESS [19:17:41 | Ninth Client]     Connected to USMidWest!
+INFO    [19:17:41 | Ninth Client]     Connecting to Nexus
+INFO    [19:17:41 | Tenth Client]     Starting connection to USEast3
+SUCCESS [19:17:41 | NRelay]           Authorized Tenth Client
+SUCCESS [19:17:42 | Tenth Client]     Connected to USEast3!
+INFO    [19:17:42 | NRelay]           Adding Eleventh Client
+INFO    [19:17:42 | Tenth Client]     Connecting to Nexus
+SUCCESS [19:17:42 | Ninth Client]     Connected!
+INFO    [19:17:42 | Eleventh Client]  Starting connection to USEast
+SUCCESS [19:17:42 | NRelay]           Authorized Eleventh Client
+INFO    [19:17:43 | NRelay]           Adding Twelvth Client
+SUCCESS [19:17:43 | Eleventh Client]  Connected to USEast!
+INFO    [19:17:43 | Eleventh Client]  Connecting to Nexus
+SUCCESS [19:17:43 | Tenth Client]     Connected!
+SUCCESS [19:17:43 | Eleventh Client]  Connected!
+INFO    [19:17:43 | Twelvth Client]   Starting connection to EUWest2
+SUCCESS [19:17:43 | NRelay]           Authorized Twelvth Client
+SUCCESS [19:17:44 | Twelvth Client]   Connected to EUWest2!
+INFO    [19:17:44 | NRelay]           Adding Thirteenth client
+INFO    [19:17:44 | Twelvth Client]   Connecting to Nexus
+INFO    [19:17:45 | NRelay]           Adding Fourteenth Client
+INFO    [19:17:45 | Thirteenth client]Starting connection to EUWest
+SUCCESS [19:17:45 | NRelay]           Authorized Thirteenth client
+SUCCESS [19:17:45 | Twelvth Client]   Connected!
+SUCCESS [19:17:45 | Thirteenth client]Connected to EUWest!
+INFO    [19:17:45 | Thirteenth client]Connecting to Nexus
+INFO    [19:17:46 | NRelay]           Adding Fifteenth Client
+SUCCESS [19:17:46 | Thirteenth client]Connected!
+INFO    [19:17:46 | Fourteenth Client]Starting connection to EUSouthWest
+SUCCESS [19:17:46 | NRelay]           Authorized Fourteenth Client
+SUCCESS [19:17:46 | Fourteenth Client]Connected to EUSouthWest!
+INFO    [19:17:46 | Fourteenth Client]Connecting to Nexus
+INFO    [19:17:46 | Fifteenth Client] Starting connection to EUSouth
+SUCCESS [19:17:46 | NRelay]           Authorized Fifteenth Client
+SUCCESS [19:17:46 | Fifteenth Client] Connected to EUSouth!
+INFO    [19:17:46 | Fifteenth Client] Connecting to Nexus
+INFO    [19:17:47 | NRelay]           Adding Sixteehnth Client
+SUCCESS [19:17:47 | Fourteenth Client]Connected!
+SUCCESS [19:17:47 | Fifteenth Client] Connected!
+INFO    [19:17:47 | Sixteehnth Client]Starting connection to EUNorth2
+SUCCESS [19:17:47 | NRelay]           Authorized Sixteehnth Client
+SUCCESS [19:17:47 | Sixteehnth Client]Connected to EUNorth2!
+INFO    [19:17:47 | Sixteehnth Client]Connecting to Nexus
+INFO    [19:17:48 | NRelay]           Adding Seventeenth Client
+SUCCESS [19:17:48 | Sixteehnth Client]Connected!
+INFO    [19:17:49 | NRelay]           Adding Eighteenth Client
+INFO    [19:17:49 | Seventeenth Client]Starting connection to EUNorth
+SUCCESS [19:17:49 | NRelay]           Authorized Seventeenth Client
+SUCCESS [19:17:49 | Seventeenth Client]Connected to EUNorth!
+INFO    [19:17:49 | Seventeenth Client]Connecting to Nexus
+INFO    [19:17:49 | Eighteenth Client]Starting connection to EUEast
+SUCCESS [19:17:49 | NRelay]           Authorized Eighteenth Client
+SUCCESS [19:17:49 | Eighteenth Client]Connected to EUEast!
+INFO    [19:17:49 | Eighteenth Client]Connecting to Nexus
+SUCCESS [19:17:50 | Seventeenth Client]Connected!
+WARNING [19:17:50 | PluginManager]    Error while calling UPDATE hook on PlayerTracker
+INFO    [19:17:50 | PluginManager]    TypeError: Cannot read property 'send' of undefined
+SUCCESS [19:17:50 | Eighteenth Client]Connected!
+WARNING [19:17:55 | Main Client]      Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:55 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:17:56 | Secondary Client] Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:56 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:17:56 | Fourth Client]    Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:56 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:17:56 | Sixth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:56 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:17:56 | Third Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:56 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:17:56 | Fifth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:56 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:17:56 | Seventh Client]   Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:56 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:17:57 | Eight Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:57 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:17:58 | Ninth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:58 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:17:59 | Tenth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:17:59 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [19:18:00 | Eleventh Client]  Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [19:18:00 | TypeError]        Cannot read property 'findPath' of undefined
